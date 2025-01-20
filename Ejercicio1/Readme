@@ -1,2 +1,0 @@
-This project simulates crop harvesting using threads in Java. Each thread represents a crop being harvested by a farmer, with varying harvest times. 
-It demonstrates the basics of multithreading and its practical applications in Java.
