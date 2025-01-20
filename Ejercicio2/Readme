@@ -1,2 +1,0 @@
-This project demonstrates crop harvesting using the Thread class in Java. Each crop is represented by a separate thread, simulating concurrent harvesting with different durations.
-It's a simple and practical way to understand the basics of threading in Java.
